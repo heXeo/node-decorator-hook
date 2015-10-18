@@ -36,6 +36,7 @@
     "snazzy": "^2.0.1"
   },
   "dependencies": {
+    "babel-runtime": "^5.8.25",
     "lodash": "^3.10.1",
     "uuid": "^2.0.1"
   },
